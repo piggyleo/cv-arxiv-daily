@@ -31,3 +31,7 @@ keywords:
                 "Neural Network Galaxy", "Neural Network Lensing", "Neural Network Dark Matter", "Neural Network Cosmology"]
     "SBI Lensing":
         filters: ["SBI Lensing", "Simulation based Interference Lensing"]
+    "Dark Matter":
+        filters: ['Dark Matter']
+    "Galaxy":
+        filters: ['Galaxy']
